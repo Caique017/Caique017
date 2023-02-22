@@ -1,8 +1,7 @@
 ### Olá! Eu sou Caique Nunes
 
-- 🔭 Hoje trabalho com Front-End
 - 🌱 Estudando React
-- 📫 Caiquen189@gmail.com
+- 📫 Caique.nunes0110@gmail.com
 
 <div align="center">
   <a href="https://github.com/Caique017">
